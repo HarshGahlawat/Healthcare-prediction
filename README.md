@@ -209,4 +209,6 @@ If you found this project helpful, consider giving it a ⭐ on GitHub.
 ## 📄 License
 
 This project is developed for educational and academic purposes.
-there are 3 thing that are not being completed be so please make it by yourself 
+
+
+there are 3 thing that are not being completed . so please make it by yourself .
