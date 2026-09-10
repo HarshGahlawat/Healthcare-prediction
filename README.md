@@ -166,18 +166,6 @@ Disease Prediction
 
 ---
 
-## 📷 Screenshots
-
-Add screenshots of your application here.
-
-Example:
-
-```
-screenshots/home.png
-screenshots/result.png
-```
-
----
 
 ## 📈 Future Improvements
 
@@ -198,16 +186,8 @@ screenshots/result.png
 GitHub:
 https://github.com/HarshGahlawat
 
----
-
-## ⭐ Support
-
-If you found this project helpful, consider giving it a ⭐ on GitHub.
-
----
-
 ## 📄 License
 
 This project is developed for educational and academic purposes.
 
-There are 3 thing that are not being completed . So please make it by yourself .
+There are 3 thing that are not being completed yet.
